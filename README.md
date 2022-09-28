@@ -23,7 +23,7 @@ HTML, CSS, SCSS
 
 ## Demo
 
-https://barbaros163.github.io/sass1_website/index.html
+https://barbaros163.github.io/sass1_website/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
